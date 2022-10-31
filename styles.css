@@ -3,22 +3,14 @@
 {
 
 min-height: 25px;
-
 display: center;
-
 align-items: center;
-  
 background:#ffff
-
 color: #ff4f;
 }
 
 .button 
-
 {
-
 justify-content: center;
-
 align-items: center;
-
 }
